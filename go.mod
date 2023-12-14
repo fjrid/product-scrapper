@@ -6,6 +6,7 @@ require (
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/chromedp/cdproto v0.0.0-20231205062650-00455a960d61
 	github.com/chromedp/chromedp v0.9.3
+	github.com/lib/pq v1.10.9
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.1
 )
